@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "playeresp",
+  "version": "${version}",
+  "name": "Player ESP",
+  "description": "Toggle outlines around other players.",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.playeresp.PlayerEsp"] },
+  "mixins": ["playeresp.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "1.21.8",
+    "java": ">=21",
+    "fabric-key-binding-api-v1": "*",
+    "fabric-lifecycle-events-v1": "*"
+  }
+}

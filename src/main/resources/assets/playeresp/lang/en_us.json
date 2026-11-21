@@ -1,0 +1,6 @@
+{
+  "key.playeresp.toggle": "Toggle player outlines",
+  "category.playeresp": "Player ESP",
+  "message.playeresp.enabled": "Player outlines enabled",
+  "message.playeresp.disabled": "Player outlines disabled"
+}

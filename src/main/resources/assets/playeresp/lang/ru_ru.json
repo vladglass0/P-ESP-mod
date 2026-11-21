@@ -1,0 +1,6 @@
+{
+  "key.playeresp.toggle": "Переключить подсветку игроков",
+  "category.playeresp": "Player ESP",
+  "message.playeresp.enabled": "Подсветка игроков включена",
+  "message.playeresp.disabled": "Подсветка игроков выключена"
+}
